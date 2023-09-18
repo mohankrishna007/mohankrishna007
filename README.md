@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohankrishna007
-- 👀 I’m interested in React, Java, Android, PHP.
-- 🌱 I’m currently learning PERN
+- 👀 I’m interested in React, Nodes.js, Java, Android, PHP, Python.
+- 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on Intersting project
 
 <!---
